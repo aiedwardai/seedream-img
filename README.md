@@ -62,7 +62,7 @@ hermes tools enable image_gen   # 如未启用
 ## 项目结构
 
 ```
-volcengine_seedream_hermes_plugin_setup/
+seedream-img/
 ├── SKILL.md                              # 可用作 Hermes skill 安装
 ├── README.md                             # 本文档
 ├── volcengine_seedream_hermes_plugin_setup.md  # 详细安装指南

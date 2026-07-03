@@ -3,7 +3,7 @@ name: volcengine-seedream
 description: Hermes Agent 火山引擎 Seedream 文生图插件 — 使用火山方舟 Ark API 生成图片，无需额外 API Key
 version: 1.1.0
 aliases: [volcengine-seedream, seedream, volcengine-img]
-source: https://github.com/aiedwardai/volcengine_seedream_hermes_plugin_setup
+source: https://github.com/aiedwardai/seedream-img
 author: aiedwardai
 tags: [image-generation, seedream, volcengine, doubao, plugin]
 ---
@@ -38,7 +38,7 @@ requires_env:
 ### 3. 写入 __init__.py
 
 从 GitHub 仓库复制完整代码：
-https://github.com/aiedwardai/volcengine_seedream_hermes_plugin_setup/blob/main/plugin/volcengine-seedream/__init__.py
+https://github.com/aiedwardai/seedream-img/blob/main/plugin/volcengine-seedream/__init__.py
 
 ### 4. 配置环境变量
 
